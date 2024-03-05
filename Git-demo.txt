@@ -1,4 +1,1 @@
 This is a git demonstration
-Change in local rep
-Change on GitHub
-Change 2 in local rep 
